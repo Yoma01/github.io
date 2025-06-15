@@ -14,13 +14,13 @@ Engineered a fully custom multi-layer perceptron (MLP) from scratch without usin
 
 -**Manual Neural Network Design:** Implemented a feedforward architecture with configurable depth, activation functions (ReLU, sigmoid), and backpropagation using only NumPy, including matrix-based gradient computation and weight updates.
 
--**Efficient Training Pipeline:** Vectorized all forward and backward passes to meet runtime limits (<5 min end-to-end) in a constrained environment, using techniques such as mini-batch gradient descent and early stopping.
+- **Efficient Training Pipeline:** Vectorized all forward and backward passes to meet runtime limits (<5 min end-to-end) in a constrained environment, using techniques such as mini-batch gradient descent and early stopping.
 
--**Feature Engineering:** Performed domain-aware preprocessing including one-hot encoding for high-cardinality categorical variables and normalization for numeric attributes; handled text fields with customized embeddings and reduced dimensionality.
+- **Feature Engineering:** Performed domain-aware preprocessing including one-hot encoding for high-cardinality categorical variables and normalization for numeric attributes; handled text fields with customized embeddings and reduced dimensionality.
 
--**Hyperparameter Optimization:** Conducted structured tuning across learning rates, batch sizes, layer widths, and initialization schemes; recorded validation accuracy across 5 train-test splits to empirically guide model selection.
+- **Hyperparameter Optimization:** Conducted structured tuning across learning rates, batch sizes, layer widths, and initialization schemes; recorded validation accuracy across 5 train-test splits to empirically guide model selection.
 
--**Performance Benchmarking:** Consistently achieved >90% of baseline model accuracy across randomized evaluations, demonstrating robustness and generalizability of the custom-built network.
+- **Performance Benchmarking:** Consistently achieved >90% of baseline model accuracy across randomized evaluations, demonstrating robustness and generalizability of the custom-built network.
 
 **Duo-Othello Game Playing Agent – Adversarial Search & Strategic Evaluation [(codebase)](https://github.com/Yoma01/othello_AI_agent)**<br />
 
@@ -28,11 +28,11 @@ Designed and implemented a time-bounded, competitive AI agent for Duo-Othello, a
 
 - **Minimax with Adaptive Depth:** Implemented a minimax search algorithm with dynamic depth adjustment based on remaining time, ensuring real-time responsiveness and strategic foresight under time-critical conditions.
 
-'-**Strategic Evaluation Heuristics:** Designed and integrated domain-specific heuristics including stability, mobility, corner capturing, and disk differential to guide the evaluation of non-terminal game states and maximize long-term advantage.
+- **Strategic Evaluation Heuristics:** Designed and integrated domain-specific heuristics including stability, mobility, corner capturing, and disk differential to guide the evaluation of non-terminal game states and maximize long-term advantage.
 
-'-**Time Management Strategy:** Integrated CPU time tracking and budgeting across multiple turns, optimizing move quality while avoiding timeouts. Designed fallback strategies for fast approximation under low time (<0.05s)
+- **Time Management Strategy:** Integrated CPU time tracking and budgeting across multiple turns, optimizing move quality while avoiding timeouts. Designed fallback strategies for fast approximation under low time (<0.05s)
 
-'-**Move Validation and Legal Action Generation:** Efficiently generated all valid moves according to extended flipping rules across all directions, enabling fast pruning and accurate simulations.
+- **Move Validation and Legal Action Generation:** Efficiently generated all valid moves according to extended flipping rules across all directions, enabling fast pruning and accurate simulations.
 
 The agent consistently outperformed both random and minimax-based baseline opponents across 20 evaluation games, demonstrating strong performance regardless of play order. This project showcases proficiency in adversarial AI, heuristic-driven decision-making, and real-time strategy under tight constraints skills directly applicable to game AI, autonomous agents, and general-purpose planning systems
 
