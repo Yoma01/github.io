@@ -26,7 +26,7 @@ Engineered a fully custom multi-layer perceptron (MLP) from scratch without usin
 
 Designed and implemented a time-bounded, competitive AI agent for Duo-Othello, a variant of Reversi game. The agent was built to autonomously select optimal moves in real-time adversarial settings against both random and minimax-based opponents under strict performance and format constraints.
 
-'- **Minimax with Adaptive Depth:** Implemented a minimax search algorithm with dynamic depth adjustment based on remaining time, ensuring real-time responsiveness and strategic foresight under time-critical conditions.
+- **Minimax with Adaptive Depth:** Implemented a minimax search algorithm with dynamic depth adjustment based on remaining time, ensuring real-time responsiveness and strategic foresight under time-critical conditions.
 
 '-**Strategic Evaluation Heuristics:** Designed and integrated domain-specific heuristics including stability, mobility, corner capturing, and disk differential to guide the evaluation of non-terminal game states and maximize long-term advantage.
 
