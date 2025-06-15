@@ -8,7 +8,7 @@ Achieved classification accuracy comparable to state-of-the-art CNNs (e.g., Effi
 This work contributes to the growing field of accessible, real-world AI applications in healthcare, emphasizing low-resource, high accuracy deployment strategies using foundation models.
 
 
-**Neural Network Implementation for Structured Prediction on Real-World Data [(codebase)](https://github.com/Yoma01/Housing-Price-Prediction-Neural-Network-) **<br />
+**Neural Network Implementation for Structured Prediction on Real-World Data [(codebase)](https://github.com/Yoma01/Housing-Price-Prediction-Neural-Network-)**<br />
 
 Engineered a fully custom multi-layer perceptron (MLP) from scratch without using any machine learning libraries to classify housing listings by bedroom count using structured data from the New York real estate market (4,800+ samples, 16 features). The project emphasized algorithmic rigor, efficient computation, and architectural design within strict resource and runtime constraints.
 
