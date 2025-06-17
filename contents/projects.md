@@ -34,7 +34,19 @@ Designed and implemented a time-bounded, competitive AI agent for Duo-Othello, a
 
 - **Move Validation and Legal Action Generation:** Efficiently generated all valid moves according to extended flipping rules across all directions, enabling fast pruning and accurate simulations.
 
-The agent consistently outperformed both random and minimax-based baseline opponents across 20 evaluation games, demonstrating strong performance regardless of play order. This project showcases proficiency in adversarial AI, heuristic-driven decision-making, and real-time strategy under tight constraints skills directly applicable to game AI, autonomous agents, and general-purpose planning systems
+The agent consistently outperformed both random and minimax-based baseline opponents across 20 evaluation games, demonstrating strong performance regardless of play order. This project showcases proficiency in adversarial AI, heuristic-driven decision-making, and real-time strategy under tight constraints skills directly applicable to game AI, autonomous agents, and general-purpose planning systems.
 
+**Artsy Artist Discovery Platform**
 
+Developed an artist discovery system that allows users to search, explore, and favorite visual artists using live Artsy API data. The platform supports dynamic search with real-time results, detailed artist profiles with artwork and category carousels, and user authentication for favoriting functionality. It has a persistent login system, interactive artwork dialogs,  snackbars for user feedback, and support for dark mode.
+
+The application is accessible both as a web application (built using Angular and Node.js) and a native Android app (built using Kotlin and Jetpack Compose), offering seamless experiences across devices. Users can register, log in, manage sessions, and maintain synchronized favorites across platforms, backed by a cloud-hosted MongoDB database.
+
+**Skills Used:** TypeScript, HTML, CSS, Angular, JavaScript, Node.js, Python, Flask, Kotlin, Jetpack Compose, RESTful APIs, MongoDB Atlas, Google Cloud Platform
+
+Other projects:
+
+Movie Recommendation Systems with LLM and Cosine Similarity: Designed two movie recommendation systems using the Netflix Kaggle dataset:
+- **LLM-based:** Used LLaMA-2 embeddings to capture semantic similarity between movies.
+- **Content-based:** Applied cosine similarity on bag-of-words vectors derived from movie descriptions, genres, and tags
 
