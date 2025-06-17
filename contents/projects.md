@@ -44,9 +44,11 @@ The application is accessible both as a web application (built using Angular and
 
 **Skills Used:** TypeScript, HTML, CSS, Angular, JavaScript, Node.js, Python, Flask, Kotlin, Jetpack Compose, RESTful APIs, MongoDB Atlas, Google Cloud Platform
 
-Other projects:
+**Other projects:**
 
-Movie Recommendation Systems with LLM and Cosine Similarity: Designed two movie recommendation systems using the Netflix Kaggle dataset:
+**Movie Recommendation Systems with LLM and Cosine Similarity:** Designed two movie recommendation systems using the Netflix Kaggle dataset:
 - **LLM-based:** Used LLaMA-2 embeddings to capture semantic similarity between movies.
 - **Content-based:** Applied cosine similarity on bag-of-words vectors derived from movie descriptions, genres, and tags
+
+**WORLDWIDE COVID-19 VACCINE TRACKER - Tableau visualization [(project link)](https://public.tableau.com/app/profile/yoma.akoni/viz/covid-19globalvaccinetracker_16829564134810/covidvaccinetracker):** Dashboard that shows the worldwide performance of vaccination programs making use of a bar chart, map and graphs
 
