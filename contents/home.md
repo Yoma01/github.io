@@ -18,7 +18,7 @@ https://github.com/Yoma01
 Artificial Intelligence, Natural Language Processing, AI policy, AI governance, AI Alignment, AI safety
 
 #### Technical Skills
-**Programming Languages:*** C, C++, Python, Java, R, SQL, Kotlin, PHP  
+**Programming Languages:** C, C++, Python, Java, R, SQL, Kotlin, PHP  
 
 **Data/ML:** NumPy, Pandas, Scikit-Learn, TensorFlow, PyTorch, OpenCV, Matplotlib
 
