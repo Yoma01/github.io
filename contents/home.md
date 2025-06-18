@@ -1,27 +1,27 @@
-I am interested in developing robots that improve the quality of life of individuals across all stages of life. I have experience working on a variety of robotics/medical devices projects, from designing and building prototypes to programming them. These projects have aided in the development of my research skills and increased my knowledge on the topics of robotics, engineering, medicine, optics and imaging.
+I am a graduate student in Computer Science with a specialization in Artificial Intelligence, driven by a commitment to building safe, ethical, and socially responsible AI systems. My academic and research background bridges technical expertise in machine learning and natural language processing with a strong focus on AI safety, alignment, and governance. I am particularly interested in the development of regulatory frameworks for foundation models, the societal impact of recommendation systems on vulnerable communities, and the design of effective methods and policies to evaluate and mitigate bias in AI systems.
 
 #### Email
-tofsodimu@gmail.com
+akoni@usc.edu
 
 #### Linkedin
-www.linkedin.com/in/tofunmisodimu
+https://www.linkedin.com/in/ogheneyoma-akoni/
 
 #### Github
-https://github.com/TofunmiSodimu
+https://github.com/Yoma01
 
 #### Education
-2022.08 - 2024.05, Robotics, Georgia Institute of Technology
+2024.01 - Date, Msc Computer Science - Artificial Intelligence, University of Southern California
 
-2018.08 - 2022.05, Bsc Biomedical Engineering, University of Texas at Dallas
+2018.08 - 2022.05, Bsc Software Engineering, University of Texas at Dallas
 
 #### Research Interests
-Robotics, Machine Learning, Artificial Intelligence, Computer Vision
+Artificial Intelligence, Natural Language Processing, AI policy, AI governance, AI Alignment, AI safety
 
 #### Technical Skills
-Programming Languages: Python, C++, C, JavaScript, MATLAB, Arduino, NI LabVIEW  
+**Programming Languages:*** C, C++, Python, Java, R, SQL, Kotlin, PHP  
 
-ML/DL Frameworks: TensorFlow, Pytorch  
+**Data/ML:** NumPy, Pandas, Scikit-Learn, TensorFlow, PyTorch, OpenCV, Matplotlib
 
-Robotics: ROS, ROS2
+**Tools:** Jira, Azure, GCP, Tableau, Android Studio, UNITY, MongoDB, MySQL, KQL, Ms Projects, Fiddler Trace
 
-Data Analysis: NumPy, Pandas, Scikit-Learn, OpenCV, MatplotLib
+**Certifications:** Professional Scrum Master I, CAPM
