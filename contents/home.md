@@ -15,7 +15,7 @@ https://github.com/Yoma01
 2018.08 - 2022.05, Bsc Software Engineering, University of Texas at Dallas
 
 #### Research Interests
-Artificial Intelligence, Natural Language Processing, AI policy, AI governance, AI Alignment, AI safety
+Artificial Intelligence, Machine Learning, Natural Language Processing, AI policy, AI governance, AI Alignment, AI safety
 
 #### Technical Skills
 **Programming Languages:** C, C++, Python, Java, R, SQL, Kotlin, PHP  
