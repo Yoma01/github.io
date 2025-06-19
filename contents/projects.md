@@ -49,7 +49,7 @@ The application is accessible both as a web application (built using Angular and
 
 <p align="center">
   <a href="https://youtu.be/ykjJmsXR2ys" target="_blank">
-   <img src="static/assets/img/thumbnail.png" alt="Artsy API" width="500" height="262" border="0" />
+   <img src="static/assets/img/thumbnail.png" alt="Artsy API" width="500" height="400" border="0" />
   </a>
 </p>
 
