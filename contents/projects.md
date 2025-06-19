@@ -62,6 +62,6 @@ Designed two movie recommendation systems using the Netflix Kaggle dataset:
 - **LLM-based:** Used LLaMA-2 embeddings to capture semantic similarity between movies.
 - **Content-based:** Applied cosine similarity on bag-of-words vectors derived from movie descriptions, genres, and tags
 
-#### WORLDWIDE COVID-19 VACCINE TRACKER - Tableau visualization [(project link)](https://public.tableau.com/app/profile/yoma.akoni/viz/covid-19globalvaccinetracker_16829564134810/covidvaccinetracker):
+#### WORLDWIDE COVID-19 VACCINE TRACKER - Tableau visualization [(Project Link)](https://public.tableau.com/app/profile/yoma.akoni/viz/covid-19globalvaccinetracker_16829564134810/covidvaccinetracker):
 Dashboard that shows the worldwide performance of vaccination programs making use of a bar chart, map and graphs
 
