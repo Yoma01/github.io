@@ -6,6 +6,9 @@
 
 **Research Poster**
 
+<p align="center">
+  <img src="static/assets/img/showCAIS.png" alt="CAIS poster presentation" width="500"/>
+</p>
 
   
 #### AI Literacy Curriculum Developer,  CRITmetic Project (AI Literacy & EdTech)                                                                                                  
