@@ -10,7 +10,7 @@ This work contributes to the growing field of accessible, real-world AI applicat
   <img src="static/assets/img/Poster 566.png" alt="Research poster" width="500"/>
 </p>
 
-**Neural Network Implementation for Structured Prediction on Real-World Data [(codebase)](https://github.com/Yoma01/Housing-Price-Prediction-Neural-Network-)**<br />
+#### Neural Network Implementation for Structured Prediction on Real-World Data [(codebase)](https://github.com/Yoma01/Housing-Price-Prediction-Neural-Network-) 
 
 Engineered a fully custom multi-layer perceptron (MLP) from scratch without using any machine learning libraries to classify housing listings by bedroom count using structured data from the New York real estate market (4,800+ samples, 16 features). The project emphasized algorithmic rigor, efficient computation, and architectural design within strict resource and runtime constraints.
 
@@ -24,7 +24,7 @@ Engineered a fully custom multi-layer perceptron (MLP) from scratch without usin
 
 - **Performance Benchmarking:** Consistently achieved >90% of baseline model accuracy across randomized evaluations, demonstrating robustness and generalizability of the custom-built network.
 
-**Duo-Othello Game Playing Agent – Adversarial Search & Strategic Evaluation [(codebase)](https://github.com/Yoma01/othello_AI_agent)**<br />
+#### Duo-Othello Game Playing Agent – Adversarial Search & Strategic Evaluation [(codebase)](https://github.com/Yoma01/othello_AI_agent) 
 
 Designed and implemented a time-bounded, competitive AI agent for Duo-Othello, a variant of Reversi game. The agent was built to autonomously select optimal moves in real-time adversarial settings against both random and minimax-based opponents under strict performance and format constraints.
 
@@ -38,7 +38,10 @@ Designed and implemented a time-bounded, competitive AI agent for Duo-Othello, a
 
 The agent consistently outperformed both random and minimax-based baseline opponents across 20 evaluation games, demonstrating strong performance regardless of play order. This project showcases proficiency in adversarial AI, heuristic-driven decision-making, and real-time strategy under tight constraints skills directly applicable to game AI, autonomous agents, and general-purpose planning systems.
 
-**Artsy Artist Discovery Platform**
+#### Artsy Artist Discovery Platform 
+
+**[Demo of Artsy Android App Functionality](https://youtu.be/ykjJmsXR2ys)**
+**[Access the app on GCP](https://test-317810304200.us-west1.run.app/)**
 
 Developed an artist discovery system that allows users to search, explore, and favorite visual artists using live Artsy API data. The platform supports dynamic search with real-time results, detailed artist profiles with artwork and category carousels, and user authentication for favoriting functionality. It has a persistent login system, interactive artwork dialogs,  snackbars for user feedback, and support for dark mode.
 
@@ -46,11 +49,13 @@ The application is accessible both as a web application (built using Angular and
 
 **Skills Used:** TypeScript, HTML, CSS, Angular, JavaScript, Node.js, Python, Flask, Kotlin, Jetpack Compose, RESTful APIs, MongoDB Atlas, Google Cloud Platform
 
-**Other projects:**
+#### Other projects:
 
-**Movie Recommendation Systems with LLM and Cosine Similarity:** Designed two movie recommendation systems using the Netflix Kaggle dataset:
+#### Movie Recommendation Systems with LLM and Cosine Similarity:
+Designed two movie recommendation systems using the Netflix Kaggle dataset:
 - **LLM-based:** Used LLaMA-2 embeddings to capture semantic similarity between movies.
 - **Content-based:** Applied cosine similarity on bag-of-words vectors derived from movie descriptions, genres, and tags
 
-**WORLDWIDE COVID-19 VACCINE TRACKER - Tableau visualization [(project link)](https://public.tableau.com/app/profile/yoma.akoni/viz/covid-19globalvaccinetracker_16829564134810/covidvaccinetracker):** Dashboard that shows the worldwide performance of vaccination programs making use of a bar chart, map and graphs
+#### WORLDWIDE COVID-19 VACCINE TRACKER - Tableau visualization [(project link)](https://public.tableau.com/app/profile/yoma.akoni/viz/covid-19globalvaccinetracker_16829564134810/covidvaccinetracker):
+Dashboard that shows the worldwide performance of vaccination programs making use of a bar chart, map and graphs
 
