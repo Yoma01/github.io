@@ -57,7 +57,7 @@ The application is accessible both as a web application (built using Angular and
 
 #### Other projects:
 
-#### Movie Recommendation Systems with LLM and Cosine Similarity ([code repo](https://github.com/Yoma01/Movie-Recommendation-Systems-with-LLM-and-Cosine-Similarity-)):
+#### Movie Recommendation Systems with LLM and Cosine Similarity ([Code Repo](https://github.com/Yoma01/Movie-Recommendation-Systems-with-LLM-and-Cosine-Similarity-)):
 Designed two movie recommendation systems using the Netflix Kaggle dataset:
 - **LLM-based:** Used LLaMA-2 embeddings to capture semantic similarity between movies.
 - **Content-based:** Applied cosine similarity on bag-of-words vectors derived from movie descriptions, genres, and tags
