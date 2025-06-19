@@ -10,9 +10,9 @@ https://www.linkedin.com/in/ogheneyoma-akoni/
 https://github.com/Yoma01
 
 #### Education
-2024.01 - Date, Msc Computer Science - Artificial Intelligence, University of Southern California
+**2024.01 - Date,** Msc Computer Science - Artificial Intelligence, University of Southern California
 
-2018.08 - 2022.05, Bsc Software Engineering, University of Texas at Dallas
+**2018.08 - 2022.05,** Bsc Software Engineering, University of Texas at Dallas
 
 #### Research Interests
 Artificial Intelligence, Machine Learning, Natural Language Processing, AI policy, AI governance, AI Alignment, AI safety
