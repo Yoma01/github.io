@@ -6,6 +6,7 @@ The model achieved classification accuracy comparable to state-of-the-art CNNs (
 This work contributes to the growing field of accessible, real-world AI applications in healthcare, emphasizing low-resource, high-accuracy deployment strategies using foundation models.
 
 **Research Poster**
+
 <p align="center">
   <img src="/static/assets/img/Poster%20566.png" alt="Research poster" width="500"/>
 </p>
