@@ -7,7 +7,7 @@
 **Research Poster**
 
 <p align="center">
-  <img src="static/assets/img/showCAIS.png" alt="CAIS poster presentation" width="500"/>
+  <img src="static/assets/img/Covert_bias_Research Poster.png" alt="CAIS poster presentation" width="500"/>
 </p>
 
   
