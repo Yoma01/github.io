@@ -7,7 +7,7 @@
 **Research Poster**
 
 <p align="center">
-  <img src="static/assets/img/Covert_bias_Research Poster.png" alt="Research poster" width="500"/>
+  <img src="static/assets/img/Covert_bias_Research%20Poster.png" alt="Research poster" width="500"/>
 </p>
  
 #### AI Literacy Curriculum Developer,  CRITmetic Project (AI Literacy & EdTech)                                                                                                  
