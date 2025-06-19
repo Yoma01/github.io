@@ -55,6 +55,7 @@ The application is accessible both as a web application (built using Angular and
 
 **Skills Used:** TypeScript, HTML, CSS, Angular, JavaScript, Node.js, Python, Flask, Kotlin, Jetpack Compose, RESTful APIs, MongoDB Atlas, Google Cloud Platform
 
+
 #### Other projects:
 
 #### Movie Recommendation Systems with LLM and Cosine Similarity ([Code Repo](https://github.com/Yoma01/Movie-Recommendation-Systems-with-LLM-and-Cosine-Similarity-)):
