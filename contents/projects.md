@@ -40,7 +40,7 @@ The agent consistently outperformed both random and minimax-based baseline oppon
 
 #### Artsy Artist Discovery Platform 
 
-**[Demo of Artsy Android App Functionality](https://youtu.be/ykjJmsXR2ys)**
+**[Demo of Artsy Android App Functionality](https://youtu.be/ykjJmsXR2ys)** <br />
 **[Access the app on GCP](https://test-317810304200.us-west1.run.app/)**
 
 Developed an artist discovery system that allows users to search, explore, and favorite visual artists using live Artsy API data. The platform supports dynamic search with real-time results, detailed artist profiles with artwork and category carousels, and user authentication for favoriting functionality. It has a persistent login system, interactive artwork dialogs,  snackbars for user feedback, and support for dark mode.
