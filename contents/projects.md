@@ -8,7 +8,7 @@ This work contributes to the growing field of accessible, real-world AI applicat
 **Research Poster**
 
 <p align="center">
-  <img src="/static/assets/img/Poster%20566.png" alt="Research poster" width="500"/>
+  <img src="/static/assets/img/Poster%20566.png" alt="dementia_prediction_poster" width="500"/>
 </p>
 
 #### Neural Network Implementation for Structured Prediction on Real-World Data [(Code Repo)](https://github.com/Yoma01/Housing-Price-Prediction-Neural-Network-) 
