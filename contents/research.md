@@ -2,7 +2,10 @@
 
 - Investigated covert dialect bias in LLMs (GPT-4, Gemini, LLaMA, DeepSeek) by comparing model responses to African American Vernacular English (AAVE) vs. Standard American English (SAE) prompts, using both direct and indirect trait attribution analyses.
 - Built a full NLP evaluation pipeline with Hugging Face Transformers, NumPy, Pandas, and Scikit-learn, incorporating preprocessing, structured prompting, score extraction, and data visualization to quantify dialect-related disparities.
-- Implemented counterfactual fairness finetuning on Gemini and LLaMA-3 using LoRA-based hyperparameter tuning, significantly reducing dialect disparities. (Draft summary paper) (Github- codebase)
+- Implemented counterfactual fairness finetuning on Gemini and LLaMA-3 using LoRA-based hyperparameter tuning, significantly reducing dialect disparities. [(Draft summary paper)](https://github.com/Yoma01/Research-Contributions/blob/main/Examining%20Speaker%20Bias%20in%20LLM%20Based%20on%20Prompts%20in%20African%20American.pdf) <br />
+
+**Research Poster**
+
 
   
 #### AI Literacy Curriculum Developer,  CRITmetic Project (AI Literacy & EdTech)                                                                                                  
