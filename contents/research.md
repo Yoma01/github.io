@@ -7,10 +7,9 @@
 **Research Poster**
 
 <p align="center">
-  <img src="static/assets/img/ShowCAIS.png" alt="CAIS poster presentation" width="500"/>
+  <img src="static/assets/img/Covert_bias_Research Poster.png" alt="Research poster" width="500"/>
 </p>
-
-  
+ 
 #### AI Literacy Curriculum Developer,  CRITmetic Project (AI Literacy & EdTech)                                                                                                  
 - Designed the AI education module for CRITmetic, a platform teaching critical race digital literacy skills for recognizing algorithmic bias in AI applications.
 - Analyzed 40+ AI and digital literacy curricula to integrate responsible AI frameworks.
