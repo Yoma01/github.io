@@ -12,8 +12,7 @@ This work contributes to the growing field of accessible, real-world AI applicat
 </p>
 
 #### Exploration of LAyer-SElective Rank reduction ([Research Paper](https://github.com/Yoma01/Research-Contributions/blob/main/Layer_Selective_Rank_Reduction.pdf))                                    
-Exploring Layer-Selective Rank Reduction (LASER) in Transformer Models
-This project examines LASER, a post-training rank reduction method using Singular Value Decomposition (SVD), to evaluate its effectiveness in pruning large language models and improving output precision. The analysis spans binary, multi-class, and open-ended tasks, with a focus on understanding how layer-wise interventions affect semantic clarity and model performance.
+This project examines Layer-Selective Rank Reduction (LASER), a post-training rank reduction method using Singular Value Decomposition (SVD), to evaluate its effectiveness in pruning large language models and improving output precision. The analysis spans binary, multi-class, and open-ended tasks, with a focus on understanding how layer-wise interventions affect semantic clarity and model performance.
 
 - Analyzed LASER’s impact across transformer layers to identify optimal noise-reduction points for specific tasks.
 
