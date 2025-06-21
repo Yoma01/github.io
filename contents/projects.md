@@ -11,6 +11,17 @@ This work contributes to the growing field of accessible, real-world AI applicat
   <img src="static/assets/img/Poster%20566.png" alt="dementia_prediction_poster" width="500"/>
 </p>
 
+#### Exploration of LAyer-SElective Rank reduction ([Research Paper](https://github.com/Yoma01/Research-Contributions/blob/main/Layer_Selective_Rank_Reduction.pdf))                                    
+Exploring Layer-Selective Rank Reduction (LASER) in Transformer Models
+This project examines LASER, a post-training rank reduction method using Singular Value Decomposition (SVD), to evaluate its effectiveness in pruning large language models and improving output precision. The analysis spans binary, multi-class, and open-ended tasks, with a focus on understanding how layer-wise interventions affect semantic clarity and model performance.
+
+- Analyzed LASER’s impact across transformer layers to identify optimal noise-reduction points for specific tasks.
+
+- Compared lower vs. higher-order SVD components using TF-IDF and named recognition to assess semantic coherence and prediction specificity.
+
+- Explored heuristics like nuclear norm and effective rank to identify optimal LASER layer and developed a shared subspace rank metric for reliable layer selection.
+
+
 #### Neural Network Implementation for Structured Prediction on Real-World Data [(Code Repo)](https://github.com/Yoma01/Housing-Price-Prediction-Neural-Network-) 
 
 Engineered a fully custom multi-layer perceptron (MLP) from scratch without using any machine learning libraries to classify housing listings by bedroom count using structured data from the New York real estate market (4,800+ samples, 16 features). The project emphasized algorithmic rigor, efficient computation, and architectural design within strict resource and runtime constraints.
