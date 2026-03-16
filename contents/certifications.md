@@ -20,5 +20,5 @@
 
 #### Professional Scrum Master
 <p align="center">
-  <img src="static/assets/img/Professional Scrum Master I_GIT.png" alt="PSM certification" width="500"/>
+  <img src="static/assets/img/ProfessionalScrumMasterI_GIT.png" alt="PSM certification" width="500"/>
 </p>
